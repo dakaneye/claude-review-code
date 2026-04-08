@@ -1,0 +1,23 @@
+{
+  "name": "dakaneye-agent-eval",
+  "version": "1.0.0",
+  "description": "Reproducible evaluation harness for coding agents, prompts, and skills. Runs tasks in git worktrees and reports pass rate, cost, time, and consistency across N trials. Use for agent comparison, skill regression testing, variance analysis, model-upgrade validation, and prompt A/B testing.",
+  "author": "dakaneye",
+  "license": "MIT",
+  "format": "claude",
+  "subtype": "skill",
+  "repository": "https://github.com/dakaneye/claude-skills",
+  "tags": [
+    "evals",
+    "agent-comparison",
+    "regression-testing",
+    "variance-analysis",
+    "claude-code",
+    "prompt-engineering"
+  ],
+  "files": [
+    "SKILL.md",
+    "evals/evals.json",
+    "evals/trigger-evals.json"
+  ]
+}

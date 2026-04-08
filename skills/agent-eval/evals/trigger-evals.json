@@ -1,0 +1,16 @@
+[
+  {"query": "compare Claude Code and Aider on my Django codebase", "should_trigger": true},
+  {"query": "how do I prove my skill didn't regress after edits", "should_trigger": true},
+  {"query": "my prompt works sometimes and fails other times, how do I measure variance", "should_trigger": true},
+  {"query": "Claude 4.6 just dropped, how do I validate nothing regressed before switching", "should_trigger": true},
+  {"query": "A/B test two versions of this system prompt", "should_trigger": true},
+  {"query": "run regression evals on all my skills", "should_trigger": true},
+  {"query": "measure pass rate and consistency across 10 runs of this task", "should_trigger": true},
+  {"query": "is this agent actually better or is it just vibes", "should_trigger": true},
+  {"query": "write a new skill for meeting notes", "should_trigger": false},
+  {"query": "review my PR for security issues", "should_trigger": false},
+  {"query": "run pytest on this file", "should_trigger": false},
+  {"query": "why is my test flaky", "should_trigger": false},
+  {"query": "explain what a git worktree is", "should_trigger": false},
+  {"query": "fix the bug in this function", "should_trigger": false}
+]
