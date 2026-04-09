@@ -1,5 +1,6 @@
 ---
-globs: "*.java"
+paths:
+  - "**/*.java"
 ---
 
 # Java Quality Rules (INVEST)

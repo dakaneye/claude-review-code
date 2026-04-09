@@ -1,5 +1,6 @@
 ---
-globs: "*.{js,ts,mjs,cjs}"
+paths:
+  - "**/*.{js,ts,mjs,cjs}"
 ---
 
 # Node.js Quality Rules (STREAMS)

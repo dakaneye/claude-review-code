@@ -1,5 +1,6 @@
 ---
-globs: "*.rs"
+paths:
+  - "**/*.rs"
 ---
 
 # Rust Quality Rules (BORROWS)

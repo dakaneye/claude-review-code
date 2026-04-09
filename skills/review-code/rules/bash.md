@@ -1,5 +1,6 @@
 ---
-globs: "*.sh"
+paths:
+  - "**/*.sh"
 ---
 
 # Bash Quality Rules (VEST)

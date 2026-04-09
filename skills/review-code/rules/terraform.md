@@ -1,5 +1,6 @@
 ---
-globs: "*.tf"
+paths:
+  - "**/*.tf"
 ---
 
 # Terraform Quality Rules (STATELOCK)
